@@ -12,7 +12,7 @@
 ## 🔥 - Github Statics:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onlymahmoud&theme=radical" alt="onlymahmoud" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlymahmoud&theme=radical&show_icons=true&locale=en&layout=compact" alt="onlymahmouud1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlymahmouud1&theme=radical&show_icons=true&locale=en&layout=compact" alt="onlymahmouud1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlymahmouud1&theme=radical"/></p>
 
