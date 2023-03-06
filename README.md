@@ -7,6 +7,7 @@
 * **CEO** Of [ThailandCodes](https://discord.gg/thailandcodes) Company
 * **Self-taught** Developer.
 * Currently working as **Freelancer**  
+
 ---
 
 
